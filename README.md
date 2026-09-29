@@ -75,9 +75,7 @@ Tic-Tac-Toe-Game/
 2. Open `index.html` in your favorite web browser
 3. Start playing!
 
-## License
 
-This project is open source and available under the MIT License.
 
 ## Author
 
